@@ -7,7 +7,7 @@
         public string State { get; set; }
         public int Amount { get; set; }
         public decimal Paid_Amount { get; set; }
-        public DateTime Due_At { get; set; }
+        // public DateTime Due_At { get; set; }
         public string Email { get; set; }
         public string Mobile { get; set; }
         public string Name { get; set; }

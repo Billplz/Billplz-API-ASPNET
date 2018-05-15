@@ -1,2 +1,3 @@
-# billplzIntegrationwithASPNET
-You can use this code to integrate billplz payment gateway with your ASP.NET web system
+# Billplz API Example for ASP.NET
+
+Example for connecting to Billplz API using ASP.NET
